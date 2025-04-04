@@ -1,5 +1,6 @@
 USE AdventureWorks2022
 
+;
 WITH ContratacionesMensuales AS (
     SELECT 
         MONTH(HireDate) AS MesNumero,

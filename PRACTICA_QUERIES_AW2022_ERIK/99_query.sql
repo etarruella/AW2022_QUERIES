@@ -1,5 +1,6 @@
 USE AdventureWorks2022
 
+;
 WITH PersonasConNombre10Letras AS (
     SELECT 
         FirstName,

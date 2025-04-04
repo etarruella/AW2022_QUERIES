@@ -1,5 +1,6 @@
 USE AdventureWorks2022
 
+;
 WITH SubcategoryCounts AS (
     SELECT 
         pc.Name AS Categoria,
